@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "secret-key",
+    "type": "java.lang.String",
+    "description": "Secret JWT key."
+  },
+  {
+    "name": "cross.allowed-origin",
+    "type": "java.lang.String",
+    "description": "Allowed cross origin."
+  }
+]}
